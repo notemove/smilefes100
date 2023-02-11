@@ -1,9 +1,10 @@
 body{
     background-image: url('img/home.png'); 
     background-repeat: no-repeat;
-    max-width: 150%;
+    background-size:cover;
+    /*max-width: 150%;
     width: auto;
-    height: auto;
+    height: auto;*/
     /* 背景画像指定 */
 }
 
