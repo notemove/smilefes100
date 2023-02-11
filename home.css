@@ -2,6 +2,7 @@ body{
     background-image: url('img/home.png'); 
     background-repeat: no-repeat;
     max-width: 100%;
+    width: auto;
     height: auto;
     /* 背景画像指定 */
 }
